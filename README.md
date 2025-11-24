@@ -1,2 +1,3 @@
-\# GitHub für Entwickler
+# GitHub für Entwickler
 
+Ein Kurs geleitet von Timo Paul
