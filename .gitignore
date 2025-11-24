@@ -1,0 +1,16 @@
+# environment files
+/.env
+
+# cached files
+/cache/
+
+# log files
+/logs/
+
+# dependency directories
+/node_modules/
+/vendor/
+
+# IDE specific files
+/.vscode/
+/.idea/
